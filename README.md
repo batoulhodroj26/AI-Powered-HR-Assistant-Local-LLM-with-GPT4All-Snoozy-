@@ -259,9 +259,3 @@ Run the assistant:
 python main.py
 
 
-Open the Gradio URL (e.g., http://127.0.0.1:7860) and ask:
-
-What is my leave balance? My employee ID is E12345
-
-
-✅ It will return the mocked result locally, no API key needed.
